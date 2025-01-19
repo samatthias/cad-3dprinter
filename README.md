@@ -1,6 +1,6 @@
 # cad-3dprinter
 
-# Context
+## Context
 
 This repository contains files of my 3dprinter cad model created with freecad version 1.0.0 and with the default assembly workspace (onsdel solver). The design is inspired by the Voron 2.4 and ratrig 4.
 
